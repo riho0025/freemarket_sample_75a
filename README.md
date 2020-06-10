@@ -147,4 +147,4 @@ TECH::CAMP受講中に４人チームで開発しました。
 
 ### Association
 - belings_to :user
-- belings_to :iten
+- belings_to :item

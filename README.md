@@ -32,7 +32,10 @@ TECH::CAMP受講中に４人チームで開発しました。
 
 # URL
  [http://18.181.47.13/](http://18.181.47.13/)  
-  
+   
+
+# ER図
+ [https://app.lucidchart.com/invitations/accept/ea610552-b35a-40ff-bca5-2b41cc198fff](https://app.lucidchart.com/invitations/accept/ea610552-b35a-40ff-bca5-2b41cc198fff)
   
   
 # データベース設計
